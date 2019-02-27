@@ -13,7 +13,7 @@ This sequence diagram gives us a more detail Tuna Fishing Supply Chain.
 State diagram -> StateDiagram.jpg
 This state diagram gives us an overview of different status of Fish Object.
 
-Class diagram -> ClassDiagram.jpg
+Class diagram -> DataModel.jpg
 This class diagram describe the classes defined for Tuna Fishing Supply Chain.
 
 
